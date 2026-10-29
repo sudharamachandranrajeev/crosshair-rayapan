@@ -24,7 +24,7 @@
 
 <p align="center"><img src="docs/hero.png" alt="Crosshair settings on a tablet and a phone" width="100%"></p>
 
-Crosshair is for players of COD Mobile, PUBG Mobile, Free Fire and other shooters who want a
+Crosshair is for players of mobile shooter games who want a
 clear aim point while hip-firing. It draws a crosshair on top of any app, and every tap still
 reaches the game. Status: **stable** (1.0). One honest limit: games don't all aim at the exact
 centre, so line it up once per game.
@@ -104,7 +104,7 @@ genuine. Only install it from that releases page.
 
 1. Open the downloaded `.apk` on your phone.
 2. If Android asks, allow **Install unknown apps** for your browser or file manager. This is normal
-   for apps from outside the Play Store.
+   for apps from outside an app store.
 3. Tap **Install**, then **Open**.
 
 Newer versions install over the top and keep your settings and presets.
@@ -174,8 +174,8 @@ flowchart LR
 <details>
 <summary><b>The crosshair disappears in the middle of a match</b></summary>
 
-Set battery use to **Unrestricted** (tap the battery banner in the app). On Xiaomi, Realme, Oppo or
-Vivo phones, also turn on **Autostart** for Crosshair in App info. If Android does close it, the
+Set battery use to **Unrestricted** (tap the battery banner in the app). On phones with strict battery saving,
+also turn on **Autostart** for Crosshair in App info. If Android does close it, the
 crosshair comes back by itself.
 </details>
 
@@ -183,7 +183,7 @@ crosshair comes back by itself.
 <summary><b>"Display over other apps" is greyed out</b></summary>
 
 Go to **App info → ⋮ menu → Allow restricted settings**, then try again. Android does this for
-apps installed from outside the Play Store.
+apps installed from outside an app store.
 </details>
 
 <details>
